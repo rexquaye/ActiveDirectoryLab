@@ -18,7 +18,7 @@
 
 <p align="center">
 Kelly Test: <br/>
-<img src="https://i.imgur.com/vH9vYvF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YyR3YmY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <img src="https://imgur.com/jZD0bZw" height="80%" width="80%" alt="Disk Sanitization Steps"/>
