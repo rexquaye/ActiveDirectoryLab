@@ -17,6 +17,9 @@
 <h2>Program walk-through:</h2>
 
 <p align="center">
+Kelly Test: <br/>
+<img src="https://imgur.com/a/QwXqzal" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
 Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
